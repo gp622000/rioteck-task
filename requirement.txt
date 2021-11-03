@@ -1,0 +1,6 @@
+I have created the task in React. I've deleted the node_modules file because it's size is too long.
+Write these commands.
+npm install
+npm install bootstrap
+npm install react-router-dom
+then npm start
